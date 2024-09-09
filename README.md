@@ -1,1 +1,2 @@
-# p_web_ponto
+# ponto-eletronico-cc-a
+Sistema de controle de ponto
